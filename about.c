@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("Bhargavi")
+printf("Bhargavi");
+printf("Yarlagadda");
 }
 
